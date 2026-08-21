@@ -20,7 +20,7 @@ Currently working on a **drone-related desktop application**, contributing to:
 ## 🛠️ Tech Stack
 
 **Languages:** C++, JavaScript, SQL , Electron.js 
-**Backend:** Node.js  
+**Backend:** Node.js 
 **Database:** MySQL  
 **Web:** HTML, CSS  
 **Tools:** Git, GitHub, VS Code  
